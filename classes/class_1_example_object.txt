@@ -1,0 +1,10 @@
+first_customer = new Customer
+
+customer_name = "Jimmy"
+customer_full = false
+customer_order = ["small soda", "slice of pizza", "chocolate chip cookie"]
+
+get_customer_name("Jimmy");
+customer_full(false);
+customer_order.psuh("small soda", "slice of pizza", "chocolate chip cookie")
+
