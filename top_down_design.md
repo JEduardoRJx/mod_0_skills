@@ -1,0 +1,80 @@
+# How to get food at a restaurant
+
+Seated At Restaurant
+    - Wait for waitress
+        - Waitress will ask how many people in your party
+            - Tell waitress how many people in your party
+                - Waitress will say "Right this way please.."
+    - Being seated
+        - Waitress will walk you and the party to an open booth
+            - Follow Waitress
+        - Sit at booth
+            - Everyone sits at booth and gets settled
+        - Waitress asks everyone what they'd like to drink
+            - Everyone selects their drink
+                - Ask for water when it's my turn
+        - Waitress hands everyone a Menu
+
+Look Over Menu
+    - Recieve Menu
+        - Look over menu
+            - Start with appetizers
+                - read what's under the appetizer's section
+                    - decide on an appetizer or move onto the next section
+            - Next look at sandwhiches
+                - read what's under the sandwhiches section
+                    - decide on a sandwhich or move onto next section
+            - Next look at the salads
+                - read what's under the salads section
+                    - decide on a salad or move onto the next section
+            - Next look at the hamburgers section
+                - read what's under the hamburger section
+                    - decide on a hamburger or move onto the next section
+                        - Cheeseburger looks good.
+                            - Decided on the cheeseburger
+        - Once food has been selected
+            - close menu
+                - drink water
+                    - chat with friends
+                    - wait for waitress
+
+Ordering Food
+    - Waitress comes back
+        - asks everyone what they'd like to order
+            - writes everyones order
+                - your turn to order
+                    - order cheeseburger
+                        - ask for extra pickels
+                        - ask for fries
+                        - thank waitress           
+        - refills everyone's water
+    - Waitress leaves
+        - leaves with order in hand
+            - places order in chef's list
+        - chef receives order
+            - chef starts making the food in order of order taken
+                - friend one plate
+                - friend two plate
+                - friend three plate
+                - my plate
+            - chef places food on delivery table
+                - waitress takes the food
+    - Waitress comes with food
+        - waitress at the table will start naming the orders
+            - each person will say "me" when the waitress names the food
+                - say "me" when the waitress say's "cheeseburger with extra pickles"
+    - Get food
+        - double check I got my extra pickles
+            - I did. "Heck yeah!"
+    - Eat food
+        - place ketchup on my plate
+            - add pepper seasoning
+                - dip fries
+                    - eat the fries
+        - Eat my burger
+            - Eat until it's complete
+Pay
+    - don't forget to pay
+        - tip waitress
+    - leave with a full stomach
+    - Smile
