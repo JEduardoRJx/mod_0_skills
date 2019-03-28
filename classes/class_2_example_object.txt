@@ -1,0 +1,9 @@
+tuesday_menu = new Menu
+
+food_type = "appetizer"
+food_price = "7.99"
+food_name = "classic cheeseburger"
+
+name("classic cheeseburger");
+price(grabs the key value pair for the price);
+get_food_type(will take input of which section to place the item in)

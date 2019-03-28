@@ -1,0 +1,9 @@
+class Menu
+
+food_type(string)
+food_price(float)
+food_name(sting)
+
+get_food_type(will determine where on the menu the food belonds under)
+price(will check the cost of said food);
+name(will list the foods name);
