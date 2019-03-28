@@ -1,0 +1,9 @@
+class Customer
+
+customer_first_name(string)
+customer_full(boolean)
+customer_order(array)
+
+get_customer_name(Takes in the input for the customer_name attribute);
+is_full(will start 'customer_full' as false but change it once they are full);
+take_order(will push the order into customer_order);
