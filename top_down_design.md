@@ -1,6 +1,6 @@
 # How to get food at a restaurant
 
-Seated At Restaurant
+- Seated At Restaurant
     - Wait for waitress
         - Waitress will ask how many people in your party
             - Tell waitress how many people in your party
@@ -15,7 +15,7 @@ Seated At Restaurant
                 - Ask for water when it's my turn
         - Waitress hands everyone a Menu
 
-Look Over Menu
+- Look Over Menu
     - Recieve Menu
         - Look over menu
             - Start with appetizers
@@ -38,7 +38,7 @@ Look Over Menu
                     - chat with friends
                     - wait for waitress
 
-Ordering Food
+- Ordering Food
     - Waitress comes back
         - asks everyone what they'd like to order
             - writes everyones order
@@ -73,7 +73,7 @@ Ordering Food
                     - eat the fries
         - Eat my burger
             - Eat until it's complete
-Pay
+- Pay
     - don't forget to pay
         - tip waitress
     - leave with a full stomach
